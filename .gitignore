@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# Bug detection executable
+bugdetection_exec
